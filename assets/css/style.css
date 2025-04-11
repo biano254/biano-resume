@@ -80,7 +80,7 @@ h2{
 }
 @media only screen and (min-width: 768px) and (max-width: 991px){
     .container{
-        height:auto;
+      width:95%;
     }
     .header h1{
         font-size: 30px;
@@ -121,7 +121,7 @@ h2{
 }
 @media screen and (max-width: 480px) {
     .container{
-        width: 95px;
+        height:auto;
     }
     .header h1{
         font-size: 20px;
